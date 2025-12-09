@@ -32,6 +32,14 @@ const Hero: React.FC = () => {
             
             <p className="text-2xl text-cyan-700 font-bold mb-3 tracking-wide print:text-black print:text-xl">{PERSONAL_INFO.title}</p>
             
+            <div className="flex flex-wrap gap-2 mb-6">
+              {["Edge AI", "TinyML", "Data Science", "Project Leadership", "Industry Collaboration"].map((tag) => (
+                <span key={tag} className="px-3 py-1 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 border border-slate-200">
+                  {tag}
+                </span>
+              ))}
+            </div>
+            
             <p className="text-md text-slate-600 mb-8 font-mono bg-slate-100 inline-block px-3 py-1 rounded border border-slate-200 print:bg-transparent print:border-none print:text-black print:pl-0">
               {PERSONAL_INFO.credentials}
             </p>
