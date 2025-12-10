@@ -3,13 +3,13 @@ import { Education, Experience, Grant, Publication, SkillCategory, Award, Servic
 export const PERSONAL_INFO = {
   name: "Mohammad Alselek",
   title: "Assistant Professor | Data Scientist | Researcher | Project Leader",
-  credentials: "Ph.D., PgCAP, FHEA",
+  credentials: "B.Eng, M.Sc., Ph.D., PGCAP, FHEA",
   email: "mohammad.alselek@gmail.com",
   location: "Glasgow, UK",
   linkedin: "https://www.linkedin.com/in/mohammad-alselek", 
   researchPortal: "https://research-portal.uws.ac.uk/en/persons/mohammad-alselek",
   phone: "+44 7594 375435",
-  about: "I am a tenure-track Assistant Professor in Computer Science at the University of the West of Scotland (UWS), with over 10 years of cross-continental experience in academia, industry, and R&D. My research focuses on Edge AI, TinyML, Embedded Systems, and DevOps for distributed AI systems. I bring a rich portfolio of interdisciplinary research, scholarly publications, and leadership in EU and UK-funded projects. I also hold a Postgraduate Certificate in Academic Practice (PgCAP) and am a Fellow of Advance HE. I collaborate with industry on applied AI/IoT pilots and advise on data-driven products and platforms."
+  about: "I am an Assistant Professor & Lead Reseacher with over 10 years of cross-continental experience in academia, industry, and R&D. My research focuses on Edge AI, TinyML, Embedded Systems, and DevOps for distributed AI systems. I bring a rich portfolio of interdisciplinary research, scholarly publications, and leadership in EU and UK-funded projects. I also hold a Postgraduate Certificate in Academic Practice (PgCAP) and am a Fellow of Advance HE. I collaborate with industry on applied AI/IoT pilots and advise on data-driven products and platforms."
 };
 
 export const RESEARCH_INTERESTS = [
