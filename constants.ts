@@ -2,28 +2,28 @@ import { Education, Experience, Grant, Publication, SkillCategory, Award, Servic
 
 export const PERSONAL_INFO = {
   name: "Mohammad Alselek",
-  title: "Assistant Professor | Data Scientist | Researcher | Project Leader",
+  title: "Assistant Professor | Edge AI & TinyML | Applied Machine Learning",
   credentials: "B.Eng, M.Sc., Ph.D., PGCAP, FHEA",
   email: "mohammad.alselek@gmail.com",
   location: "Glasgow, UK",
   linkedin: "https://www.linkedin.com/in/mohammad-alselek", 
   researchPortal: "https://research-portal.uws.ac.uk/en/persons/mohammad-alselek",
   phone: "+44 7594 375435",
-  about: "I am an Assistant Professor & Lead Reseacher with over 10 years of cross-continental experience in academia, industry, and R&D. My research focuses on Edge AI, TinyML, Embedded Systems, and DevOps for distributed AI systems. I bring a rich portfolio of interdisciplinary research, scholarly publications, and leadership in EU and UK-funded projects. I collaborate with industry on applied AI/IoT pilots and advise on data-driven products and platforms."
+  about: "I am an Assistant Professor & Lead Researcher with over 10 years of experience across academia, industry, and R&D. My work focuses on Edge AI, TinyML, embedded machine learning, and DevOps-driven AI systems, with an emphasis on deploying intelligent models on resource-constrained and distributed environments. My research combines applied machine learning, systems engineering, and real-world experimentation, supported by peer-reviewed publications and large collaborative EU and UK projects. Alongside academic research, I work closely with industry partners on AI/IoT pilots, helping translate research ideas into deployable systems and data-driven products."
 };
 
 export const RESEARCH_INTERESTS = [
   {
-    title: "Generative Intelligence for Edge Systems",
-    description: "Optimizing and deploying LLMs on resource-constrained Edge/IoT devices and using LLMs as reasoning layers in distributed systems (6G, industrial control)."
+    title: "Edge AI & TinyML Systems",
+    description: "Design and deployment of machine learning models on resource-constrained devices, including microcontrollers and edge platforms. Focus on model compression, on-device inference, and continuous model updates in real deployments."
   },
   {
-    title: "Decentralized AI Architectures",
-    description: "Designing ultra-low-latency AI solutions and implementing Federated Learning (FL) frameworks for privacy-preserving, decentralized model training."
+    title: "Distributed & Decentralized AI Architectures",
+    description: "Architectures for AI systems operating across cloud, edge, and IoT environments. Topics include low-latency inference, federated and decentralized learning concepts, and system-level integration in industrial and communication networks."
   },
   {
-    title: "Sustainable AI, MLOps, and Digital Twins",
-    description: "Green AI principles to optimize energy consumption, robust MLOps for Edge environments, and Digital Twins for predictive maintenance."
+    title: "MLOps, Sustainability & Predictive Systems",
+    description: "Practical MLOps pipelines for edge environments, energy-aware AI design, and predictive systems for monitoring, forecasting, and digital twin-enabled decision support."
   }
 ];
 
@@ -273,7 +273,7 @@ export const SKILLS: SkillCategory[] = [
   },
   {
     category: "Languages",
-    skills: ["English (Fluent)", "Arabic (Native)", "Portuguese (Fluent)"]
+    skills: ["English (Fluent)", "Arabic (Native)", "Portuguese (Advanced)"]
   }
 ];
 

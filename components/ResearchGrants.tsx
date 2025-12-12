@@ -58,7 +58,7 @@ const ResearchGrants: React.FC = () => {
           <div className="bg-blue-50 p-2 rounded-lg mr-3 border border-blue-100">
              <Coins className="w-6 h-6 text-blue-600" />
           </div>
-          Funding Portfolio &gt;€20M
+          International Projects & Technical Contributions
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {GRANTS.map((grant, index) => (
