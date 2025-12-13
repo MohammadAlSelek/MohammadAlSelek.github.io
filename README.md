@@ -1,13 +1,13 @@
 # Mohammad Alselek - Academic Portfolio
 
-This is the source code for the personal academic portfolio website of Mohammad Alselek, Assistant Professor in Computer Science at the University of the West of Scotland.
+This is the source code for the personal academic portfolio website of Dr. Mohammad Alselek.
 
 ## Overview
 
 The website showcases:
-- Academic Profile & Biography
-- Research Projects & Grants (Edge AI, TinyML, IoT)
-- Professional Experience Timeline
+- Biography
+- International Projects & Grants (Applied ML, Edge AI, TinyML, IoT)
+- Professional Experience
 - Teaching & Curriculum Development
 - Publication List
 - Technical Skills
