@@ -2,14 +2,14 @@ import { Education, Experience, Grant, Publication, SkillCategory, Award, Servic
 
 export const PERSONAL_INFO = {
   name: "Mohammad Alselek",
-  title: "Assistant Professor | Edge AI & TinyML | Applied Machine Learning",
+  title: "Computer Scientist | Assistant Professor",
   credentials: "B.Eng, M.Sc., Ph.D., PGCAP, FHEA",
   email: "mohammad.alselek@gmail.com",
   location: "Glasgow, UK",
   linkedin: "https://www.linkedin.com/in/mohammad-alselek", 
   researchPortal: "https://research-portal.uws.ac.uk/en/persons/mohammad-alselek",
   phone: "+44 7594 375435",
-  about: "I am an Assistant Professor & Lead Researcher with over 10 years of experience across academia, industry, and R&D. My work focuses on Edge AI, TinyML, embedded machine learning, and DevOps-driven AI systems, with an emphasis on deploying intelligent models on resource-constrained and distributed environments. My research combines applied machine learning, systems engineering, and real-world experimentation, supported by peer-reviewed publications and large collaborative EU and UK projects. Alongside academic research, I work closely with industry partners on AI/IoT pilots, helping translate research ideas into deployable systems and data-driven products."
+  about: "I am an Assistant Professor & Lead Researcher working at the intersection of Applied Machine Learning, Edge AI, TinyML, and MLOps. I enjoy turning complex ideas into real, deployable systems that solve real-world problems. My research combines applied machine learning, systems engineering, and real-world experimentation, supported by peer-reviewed publications and large collaborative EU and UK projects. Alongside academic research, I work closely with industry partners on AI/IoT pilots, helping translate research ideas into deployable systems and data-driven products."
 };
 
 export const RESEARCH_INTERESTS = [

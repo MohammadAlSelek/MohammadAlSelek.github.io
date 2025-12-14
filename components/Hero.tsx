@@ -94,7 +94,7 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-white/70 via-transparent to-transparent"></div>
             </div>
             
-            {/* Floating Stats Card 1 */}
+            {/* Floating Stats Card 1 
             <div className="absolute -bottom-4 -left-4 bg-white shadow-xl shadow-cyan-100/60 backdrop-blur-xl p-4 rounded-xl border border-slate-200 hidden md:flex items-center gap-4 animate-bounce" style={{ animationDuration: '3s' }}>
                 <div className="bg-cyan-50 p-3 rounded-full border border-cyan-100">
                     <Cpu className="w-6 h-6 text-cyan-600" />
@@ -106,7 +106,7 @@ const Hero: React.FC = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div>*/}
       
       {/* Dynamic Background Orbs */}
       <div className="absolute top-0 right-0 -mt-40 -mr-40 w-[600px] h-[600px] bg-cyan-200 rounded-full blur-[100px] opacity-40 z-0 print:hidden animate-pulse"></div>
