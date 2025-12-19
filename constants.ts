@@ -8,8 +8,7 @@ export const PERSONAL_INFO = {
   location: "Glasgow, UK",
   linkedin: "https://www.linkedin.com/in/mohammad-alselek", 
   researchPortal: "https://research-portal.uws.ac.uk/en/persons/mohammad-alselek",
-  phone: "+44 7594 375435",
-  about: "I am an Assistant Professor & Lead Researcher working at the intersection of Applied Machine Learning, Edge AI, TinyML, and MLOps. I enjoy turning complex ideas into real, deployable systems that solve real-world problems. My research combines applied machine learning, systems engineering, and real-world experimentation, supported by peer-reviewed publications and large collaborative EU and UK projects. Alongside academic research, I work closely with industry partners on AI/IoT pilots, helping translate research ideas into deployable systems and data-driven products."
+  phone: "+44 7594 375435"
 };
 
 export const RESEARCH_INTERESTS = [
@@ -100,14 +99,8 @@ export const EXPERIENCE: Experience[] = [
   {
     company: "University of the West of Scotland",
     location: "UK",
-    role: "Assistant Professor",
+    role: "Assistant Professor  & Lead Applied AI Researcher",
     period: "October 2022–Present",
-    highlights: [
-      "Spearheaded research in Edge AI, leading initiatives on Digital Twins and TinyML DevOps.",
-      "Supervised 12+ research projects (2 PhD, 10+ MSc).",
-      "Member of the National Edge AI Hub (UK) and AI for Sustainability initiatives.",
-      "Directed new modules: AI for Project Managers (MSc) and Data Visualisation & Analysis (UG)."
-    ],
     url: "https://www.uws.ac.uk/"
   },
   {
@@ -115,11 +108,6 @@ export const EXPERIENCE: Experience[] = [
     location: "UK",
     role: "Research & Teaching Fellow | Project Leader",
     period: "June 2021–October 2022",
-    highlights: [
-      "Managed technical contributions for Horizon Europe P2CODE, H2020 6G BRAINS, and ARCADIAN-IoT.",
-      "Co-designed updatable AI model architectures for 5G/6G networks.",
-      "Contributed to securing external grant funding (>€20M portfolio)."
-    ],
     url: "https://www.uws.ac.uk/"
   },
   {
@@ -127,10 +115,6 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Senior Project Manager",
     period: "Feb 2019 – May 2021",
-    highlights: [
-      "Managed end-to-end ERP and IoT integration projects for international manufacturing clients.",
-      "Implemented real-time operational dashboards integrating high-velocity sensor data."
-    ],
     url: "https://www.sistrade.com/"
   },
   {
@@ -138,10 +122,6 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "R&D Project Manager",
     period: "Aug 2016 – Jan 2019",
-    highlights: [
-      "Managed contributions to SELFNET H2020 project (Self-Organizing Network Management).",
-      "Managed implementation of complex NFV/SDN proof-of-concepts."
-    ],
     url: "https://proef.com/en/"
   },
   {
@@ -149,9 +129,6 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Software Engineer",
     period: "Nov 2015 – Jul 2016",
-    highlights: [
-      "Deployed and configured OpenStack and VMware environments."
-    ],
     url: "https://www.novabase.pt/"
   },
   {
@@ -159,9 +136,6 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Software Engineer Intern",
     period: "2015",
-    highlights: [
-      "Collaborated on Waste Management development to optimise network device usage."
-    ],
     url: "https://www.cgd.pt/"
   }
 ];
