@@ -101,6 +101,7 @@ export const EXPERIENCE: Experience[] = [
     location: "UK",
     role: "Assistant Professor  & Lead Applied AI Researcher",
     period: "October 2022–Present",
+    highlights: [],
     url: "https://www.uws.ac.uk/"
   },
   {
@@ -108,6 +109,7 @@ export const EXPERIENCE: Experience[] = [
     location: "UK",
     role: "Research & Teaching Fellow | Project Leader",
     period: "June 2021–October 2022",
+    highlights: [],
     url: "https://www.uws.ac.uk/"
   },
   {
@@ -115,6 +117,7 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Senior Project Manager",
     period: "Feb 2019 – May 2021",
+    highlights: [],
     url: "https://www.sistrade.com/"
   },
   {
@@ -122,6 +125,7 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "R&D Project Manager",
     period: "Aug 2016 – Jan 2019",
+    highlights: [],
     url: "https://proef.com/en/"
   },
   {
@@ -129,6 +133,7 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Software Engineer",
     period: "Nov 2015 – Jul 2016",
+    highlights: [],
     url: "https://www.novabase.pt/"
   },
   {
@@ -136,6 +141,7 @@ export const EXPERIENCE: Experience[] = [
     location: "Portugal",
     role: "Software Engineer Intern",
     period: "2015",
+    highlights: [],
     url: "https://www.cgd.pt/"
   }
 ];
